@@ -6,9 +6,13 @@
 ### 3rd             Change - Minor updates and hotfixes
 
 ## Current Version
-1.0.0
+1.0.1
 
 ## Version
 	2023-02-09		Version 1.0.0
 
 				The code is born!
+
+	2023-02-09		Version 1.0.1
+
+				Finished tutorial
